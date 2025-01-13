@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "INVEST SMARTER  NOT HARDER"; ObjectID = "2Ab-Gh-LLU"; */
+"2Ab-Gh-LLU.text" = "INVEST SMARTER  NOT HARDER";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "CMI-zy-lGi"; */
+"CMI-zy-lGi.text" = "Detail";
+
+/* Class = "UILabel"; text = "Welcome, John Doe!"; ObjectID = "Gab-wV-bf4"; */
+"Gab-wV-bf4.text" = "Welcome, John Doe!";
+
+/* Class = "UILabel"; text = "VEST"; ObjectID = "IrE-zY-U7l"; */
+"IrE-zY-U7l.text" = "VEST";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "LbA-ay-fWK"; */
+"LbA-ay-fWK.text" = "Title";
+
+/* Class = "UIButton"; configuration.title = "Sign In"; ObjectID = "NgH-ac-E6t"; */
+"NgH-ac-E6t.configuration.title" = "Sign In";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NgH-ac-E6t"; */
+"NgH-ac-E6t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "ALGO"; ObjectID = "PeV-Q2-pdn"; */
+"PeV-Q2-pdn.text" = "ALGO";
+
+/* Class = "UIButton"; configuration.title = "   Sign In with Google"; ObjectID = "Qvb-Zo-PXp"; */
+"Qvb-Zo-PXp.configuration.title" = "   Sign In with Google";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Qvb-Zo-PXp"; */
+"Qvb-Zo-PXp.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = " Create Account"; ObjectID = "aZ2-4D-6XM"; */
+"aZ2-4D-6XM.configuration.title" = " Create Account";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aZ2-4D-6XM"; */
+"aZ2-4D-6XM.normalTitle" = "Button";
